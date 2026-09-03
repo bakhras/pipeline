@@ -9,4 +9,4 @@ Using DSSP, the secondary structure for this model can be calculated.
 This then can be added to a .csv file containing the accession codes.
 
 For help running this software, please see the documentation:
-https://troy-lab.github.io/pipeline/
+https://bakhras.github.io/pipeline/
